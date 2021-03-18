@@ -16,4 +16,4 @@ Update 2021/02/16 Tuya-convert OTA failed for this plug due to its factory loade
 
 This plug contains a [TYWE2S](https://tasmota.github.io/docs/Pinouts/#tywe2s) module which was simple enough to solder pins.
 
-Note the plug casing itself uses the extremely uncommon tri-groove tamperproof screws which make disassembly challenging.  The BrilliantSmart 20676/05 plug is a cost-competitive alternative with the same TYWE2S module and phillips head screws.
+Note the plug casing itself uses the extremely uncommon tri-groove tamperproof screws which make disassembly challenging - (try using a 2.6mm spanner point bit) .  The BrilliantSmart 20676/05 plug is a cost-competitive alternative with the same TYWE2S module and phillips head screws.
